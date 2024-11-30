@@ -1,3 +1,6 @@
+// iphone 15pro & chrome, It wast tested successfully.
+
+
 let ballX, ballY; // 원의 위치
 let centerX, centerY; // 화면 중앙 위치
 let sensitivity = 200; // 움직임 민감도 조정
